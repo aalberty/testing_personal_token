@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://github.com/login/oauth/authorize</auth_url>
+        <certificate_url/>
+        <client_id>52ab6dc69d083785d9a8</client_id>
+        <client_secret>daraAF9/swxHsz5Dd3NuYnMBGj6Q+pBa6NRRuIqi8QWZp/fkLQauKHsxpJr4TKMY</client_secret>
+        <client_uuid>b42bb31fdb0120104e9c2737489619a2</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>Github</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev84050.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <revoke_token_url/>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 17:03:39</sys_created_on>
+        <sys_id>382bb31fdb0120104e9c2737489619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Github</sys_name>
+        <sys_package display_value="GithubTest" source="x_324004_github">1a1f2b93db0120104e9c273748961900</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GithubTest">1a1f2b93db0120104e9c273748961900</sys_scope>
+        <sys_update_name>oauth_entity_382bb31fdb0120104e9c2737489619a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 17:03:39</sys_updated_on>
+        <token_url>https://github.com/login/oauth/access_token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
